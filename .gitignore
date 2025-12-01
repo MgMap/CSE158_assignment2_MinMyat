@@ -1,0 +1,32 @@
+# Dataset
+*.npy
+processed_endomondoHR_proper_interpolate.npy
+
+# Assignment PDF files
+158_258_2025_Assignment_2.pdf
+assignment2_fa25.pdf
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+.conda/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated images (optional - uncomment if you want to ignore)
+# *.png
