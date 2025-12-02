@@ -1,6 +1,9 @@
 # Dataset
 *.npy
 processed_endomondoHR_proper_interpolate.npy
+*.csv
+RAW_interactions.csv
+RAW_recipes.csv
 
 # Assignment PDF files
 158_258_2025_Assignment_2.pdf
